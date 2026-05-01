@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research package, please cite it as below."
+title: "Energy Sensing: Public Priority Package"
+authors:
+  - family-names: "Viviani"
+    given-names: "Peter"
+    email: "peter@aumara.xyz"
+version: "0.1-priority"
+date-released: "2026-05-01"
+url: "https://github.com/aumara-xyz/energy-sensing"
+type: "dataset"
